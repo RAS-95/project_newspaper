@@ -96,15 +96,15 @@ Admin Panel
                     </tfoot>
                     <tbody>
                         <tr>
-                            <td>Tiger Nixon</td>
+                            <td>Rafi Ahammed Songram</td>
                             <td>System Architect</td>
-                            <td>Edinburgh</td>
+                            <td>Rajshahi</td>
                             <td>61</td>
                             <td>2011/04/25</td>
                             <td>$320,800</td>
                         </tr>
                         <tr>
-                            <td>Garrett Winters</td>
+                            <td>Tushar</td>
                             <td>Accountant</td>
                             <td>Tokyo</td>
                             <td>63</td>
@@ -112,8 +112,8 @@ Admin Panel
                             <td>$170,750</td>
                         </tr>
                         <tr>
-                            <td>Ashton Cox</td>
-                            <td>Junior Technical Author</td>
+                            <td>Mahmood Reyal</td>
+                            <td>Technical Author</td>
                             <td>San Francisco</td>
                             <td>66</td>
                             <td>2009/01/12</td>
